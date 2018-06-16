@@ -1,0 +1,5 @@
+Aplicativo: Spotify
+Paradigmas: Programação orientada a objetos
+Arquitetura: Java, C, C++
+Interface: Linear Layout, Grid Layout, TextView, Label, Button, Switch, Progress bar, Slider, ImageButton 
+Serviços: Tem a opção de usar o facebook como forma de login e para compartilhar musicas.
